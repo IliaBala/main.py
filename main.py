@@ -7,5 +7,4 @@ print(2 * 2 + 2)
 print(2 * (2 + 2))
 print(type(2 * 2 + 2) == (2 * (2 + 2)))
 # "4th program"
-print(str(float('123.456')))
-print(int(123.456 * 10 - 1230.56))
+number = print(int(float('123.456') * 10 - 1230.56))
